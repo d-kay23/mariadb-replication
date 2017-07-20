@@ -25,7 +25,9 @@
 					"diskLimit":61,
 					"tag":"10.2.6",
 					"fixedCloudlets":1,
-					"flexibleCloudlets":6}
+					"flexibleCloudlets":6,
+					"count": 2,
+					}
 				]
 			}
 		},
